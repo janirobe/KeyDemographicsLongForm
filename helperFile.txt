@@ -1,0 +1,5 @@
+This script takes demographic data from a list of all clients and merges it with key demographic questioannaire submissions.
+The result is long format key demographic data that can be analyzed longitudinally.
+
+1.You will need to do an advanced search download in civi for all clients, name this file "data.csv".
+2.You will also need to do an SPSS version download of Key Demographic bundles, name this file "key.xlsx"
